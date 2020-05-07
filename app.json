@@ -17,19 +17,6 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
-    },
-    "extra": {
-      "firebase": {
-        "apiKey": "AIzaSyC_4PK7ZS5D-G-E1LqSACrepMByGosC-rc",
-        "authDomain": "rn-login-expo.firebaseapp.com",
-        "databaseURL": "https://rn-login-expo.firebaseio.com",
-        "projectId": "rn-login-expo",
-        "storageBucket": "rn-login-expo.appspot.com",
-        "messagingSenderId": "209024887662"
-      },
-      "facebook": {
-        "appId": "1061148287619332"
-      }
     }
   }
 }
